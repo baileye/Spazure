@@ -1,0 +1,79 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5000 (ID=0xa26)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.253 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2160x1440 59Hz; virtual: 2160x1440 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\demo_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All passes removed
+WARNING: Shader Unsupported: 'Legacy Shaders/Specular' - All passes removed
+WARNING: Shader Unsupported: 'Skybox/6 Sided' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/Vertexlit' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Setting to default shader.
+WARNING: Shader Unsupported: 'Nature/Terrain/Diffuse' - All passes removed
+WARNING: Shader Unsupported: 'Nature/Terrain/Diffuse' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Soft Occlusion Bark Rendertex' - Setting to default shader.
+WARNING: Shader Unsupported: 'Nature/Tree Soft Occlusion Bark' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Soft Occlusion Leaves Rendertex' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-Base' - All passes removed
+WARNING: Shader Unsupported: 'Nature/Terrain/Specular' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-Base' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-Base' - All passes removed
+WARNING: Shader Unsupported: 'Nature/Terrain/Standard' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-Base' - All passes removed
+The tree Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 98)
+
+The tree Tree2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 98)
+
+The tree Tree3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 98)
+
+WARNING: Shader Unsupported: 'Unlit/Texture' - Setting to default shader.
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

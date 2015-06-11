@@ -1,0 +1,97 @@
+Mono path[0] = 'C:/Users/Public/Documents/Unity Projects/PUN2/out/Vikings2_Data/Managed'
+Mono path[1] = 'C:/Users/Public/Documents/Unity Projects/PUN2/out/Vikings2_Data/Mono'
+Mono config path = 'C:/Users/Public/Documents/Unity Projects/PUN2/out/Vikings2_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Public/Documents/Unity Projects/PUN2/out/Vikings2_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55035
+Multi-casting "[IP] 192.168.56.1 [Port] 55035 [Flags] 2 [Guid] 576047445 [EditorId] 2477833324 [Version] 1048832 [Id] WindowsPlayer(MININT-VB5OI9L) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.56.1:55035]
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5000 (ID=0xa26)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.087 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2160x1440 59Hz; virtual: 2160x1440 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PUN2\out\Vikings2_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All passes removed
+WARNING: Shader Unsupported: 'Legacy Shaders/Specular' - All passes removed
+WARNING: Shader Unsupported: 'Skybox/6 Sided' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/Vertexlit' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Setting to default shader.
+WARNING: Shader Unsupported: 'Nature/Terrain/Diffuse' - All passes removed
+WARNING: Shader Unsupported: 'Nature/Terrain/Diffuse' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Soft Occlusion Bark Rendertex' - Setting to default shader.
+WARNING: Shader Unsupported: 'Nature/Tree Soft Occlusion Bark' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Soft Occlusion Leaves Rendertex' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-Base' - All passes removed
+WARNING: Shader Unsupported: 'Nature/Terrain/Specular' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Specular-Base' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-Base' - All passes removed
+WARNING: Shader Unsupported: 'Nature/Terrain/Standard' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-AddPass' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Standard-Base' - All passes removed
+The tree Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Terrain/TreeDatabase.cpp Line: 98)
+
+The tree Tree2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Terrain/TreeDatabase.cpp Line: 98)
+
+The tree Tree3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Terrain/TreeDatabase.cpp Line: 98)
+
+WARNING: Shader Unsupported: 'Unlit/Texture' - Setting to default shader.
+OnDisconnectedFromPhoton
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+GameManagerVik:OnDisconnectedFromPhoton() (at C:\Users\Public\Documents\Unity Projects\PUN2\Assets\DemoVikings\Scripts\GameManagerVik.cs:55)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Public\Documents\Unity Projects\PUN2\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1925)
+NetworkingPeer:OnStatusChanged(StatusCode) (at C:\Users\Public\Documents\Unity Projects\PUN2\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1500)
+ExitGames.Client.Photon.EnetPeer:Disconnect()
+ExitGames.Client.Photon.PhotonPeer:Disconnect()
+NetworkingPeer:Disconnect() (at C:\Users\Public\Documents\Unity Projects\PUN2\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:426)
+PhotonNetwork:Disconnect() (at C:\Users\Public\Documents\Unity Projects\PUN2\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:1344)
+PhotonHandler:OnApplicationQuit() (at C:\Users\Public\Documents\Unity Projects\PUN2\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:56)
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/PUN2/Assets/DemoVikings/Scripts/GameManagerVik.cs Line: 55)
+
