@@ -28,6 +28,8 @@ public class RandomMatchMaker : MonoBehaviour {
     void OnJoinedRoom()
     {
         GameObject fighter = PhotonNetwork.Instantiate("Fighter", Vector3.zero, Quaternion.identity, 0);
+        PlayerController controller = fighter.GetComponent<PlayerController>();
+        controller.enabled = true;
     }
 	
 	// Update is called once per frame
