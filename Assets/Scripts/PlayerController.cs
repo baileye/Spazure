@@ -35,6 +35,7 @@ public class PlayerController : MonoBehaviour {
         if (Input.GetButton("Fire1") && Time.time > nextFire)
         {
             nextFire = Time.time + fireRate;
+            //GameObject bolt = PhotonNetwork.Instantiate("Bolt", shotSpawn.position, shotSpawn.rotation, 1);
             Instantiate(shot, shotSpawn.position, shotSpawn.rotation);
         }
     }
